@@ -1,0 +1,13 @@
+page-home {
+	.center {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    ion-img {
+        object-fit: resize;
+        width: auto !important;
+        border: 0;
+        padding: 0;
+    }
+}
